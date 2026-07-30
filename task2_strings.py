@@ -48,3 +48,11 @@ for clean in messy_names:
 
 #C
 print(f"#1 Best Seller: {video_game_sales[0][1]} ({video_game_sales[0][3]}) - ${video_game_sales[0][9]}M global sales")
+
+Result:
+
+Pokemon
+wii sports
+tetris
+mario kart wii
+#1 Best Seller: Wii Sports (2006) - $82.74M global sales
