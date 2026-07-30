@@ -58,3 +58,28 @@ def get_summary(game):
 for game in video_game_sales:
     print(get_summary(game))
 
+Result:
+
+74.28
+[[2, 'Super Mario Bros.', 'NES', 1985, 'Platform', 'Nintendo', 29.08, 3.58, 6.81, 40.24], [7, 'New Super Mario Bros.', 'DS', 2006, 'Platform', 'Nintendo', 11.38, 9.23, 6.5, 30.01], [9, 'New Super Mario Bros. Wii', 'Wii', 2009, 'Platform', 'Nintendo', 14.59, 7.06, 4.7, 28.62], [18, 'Super Mario World', 'SNES', 1990, 'Platform', 'Nintendo', 12.78, 3.75, 3.54, 20.61]]
+[[1, 'Wii Sports', 'Wii', 2006, 'Sports', 'Nintendo', 41.49, 29.02, 3.77, 82.74], [4, 'Wii Sports Resort', 'Wii', 2009, 'Sports', 'Nintendo', 15.75, 11.01, 3.28, 33.0], [14, 'Wii Fit', 'Wii', 2007, 'Sports', 'Nintendo', 8.94, 8.03, 3.6, 22.72]]
+Wii Sports (2006) - Sports - $82.74M
+Super Mario Bros. (1985) - Platform - $40.24M
+Mario Kart Wii (2008) - Racing - $35.82M
+Wii Sports Resort (2009) - Sports - $33.0M
+Pokemon Red/Blue (1996) - Role-Playing - $31.37M
+Tetris (1989) - Puzzle - $30.26M
+New Super Mario Bros. (2006) - Platform - $30.01M
+Wii Play (2006) - Misc - $29.02M
+New Super Mario Bros. Wii (2009) - Platform - $28.62M
+Duck Hunt (1984) - Shooter - $28.31M
+Nintendogs (2005) - Simulation - $24.76M
+Mario Kart DS (2005) - Racing - $23.42M
+Pokemon Gold/Silver (1999) - Role-Playing - $23.1M
+Wii Fit (2007) - Sports - $22.72M
+Kinect Adventures! (2010) - Misc - $21.82M
+Grand Theft Auto V (2013) - Action - $21.4M
+Grand Theft Auto: San Andreas (2004) - Action - $20.81M
+Super Mario World (1990) - Platform - $20.61M
+Brain Age (2005) - Puzzle - $20.22M
+Pokemon Diamond/Pearl (2006) - Role-Playing - $18.36M
