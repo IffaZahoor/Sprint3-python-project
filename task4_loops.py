@@ -72,3 +72,22 @@ for pub in video_game_sales:
 
 print(nintendo_games)
 print(len(nintendo_games))  
+
+Result: 
+
+Wii Sports 82.74
+Super Mario Bros. 40.24
+Mario Kart Wii 35.82
+Wii Sports Resort 33.0
+Pokemon Red/Blue 31.37
+Tetris 30.26
+New Super Mario Bros. 30.01
+Wii Play 29.02
+New Super Mario Bros. Wii 28.62
+Duck Hunt 28.31
+pre_2000_count:6
+295.75
+78.72000000000003
+North America had higher sales.
+['Wii Sports', 'Super Mario Bros.', 'Mario Kart Wii', 'Wii Sports Resort', 'Pokemon Red/Blue', 'Tetris', 'New Super Mario Bros.', 'Wii Play', 'New Super Mario Bros. Wii', 'Duck Hunt', 'Nintendogs', 'Mario Kart DS', 'Pokemon Gold/Silver', 'Wii Fit', 'Super Mario World', 'Brain Age', 'Pokemon Diamond/Pearl']
+17
